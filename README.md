@@ -1,5 +1,3 @@
-<h1 align="center">0317IL</h1> <br>
-
 <!--
 **0317IL/0317IL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
