@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img height="250em" src="https://media2.giphy.com/media/sJdLbUWlOUiuQ/giphy.gif?cid=ecf05e47a7edog8i8k8rt3wr1ugzgo3wlt5l7f48rczkqq36&rid=giphy.gif&ct=g"/>
   
-  <img  height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0317il&langs_count=7&theme=yeblu"/>
+  <img  height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0317il&langs_count=5&theme=yeblu"/>
     <br><br>
   <div >  
    <img align="center" alt="React" height="50" width="60"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
