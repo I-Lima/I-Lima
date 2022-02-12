@@ -26,9 +26,6 @@ Here are some ideas to get you started:
     <br><br>
   <div >  
    <img align="center" alt="React" height="50" width="60"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-  <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="HTML" height="60" width="60" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
-   <img  align="center" alt="HTML" height="60" width="60" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" />
   <img align="center" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
   <img align="center" height="60" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxxBVp10Cv5a57Vmobd8m9Ss_DLPaWOJSXxtDqS47v-D1kd5weikyDxjuT6ncKjUd7_uE&usqp=CAU"/>
     </div>
