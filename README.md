@@ -5,7 +5,7 @@ I'm a computer science student and junior software developer with a focus on mob
   
 ## My Skills 💻
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,redux,next,jest,tailwind,materialui,mysql,html,css,py,git,c,java" />
   </a>
 </p>
