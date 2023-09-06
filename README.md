@@ -1,21 +1,20 @@
-<!--
-**0317IL/0317IL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi :wave: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-  <img height="250em" src="https://media2.giphy.com/media/sJdLbUWlOUiuQ/giphy.gif?cid=ecf05e47a7edog8i8k8rt3wr1ugzgo3wlt5l7f48rczkqq36&rid=giphy.gif&ct=g"/>
+I'm a computer science student and junior software developer with a focus on mobile development.
   
-  <img  height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0317il&langs_count=5&theme=yeblu"/>
-  </div>
-  
-  
+## My Skills 💻
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,redux,next,jest,tailwind,materialui,mysql,html,css,py,git,c,java" />
+  </a>
+</p>
+
+### Languages 🌐
+- Portuguese (Native language)
+- Spanish
+- English
+- Deutsch (trying...)
+
+## What I'm currently learning 📚
+- Native android development with java
