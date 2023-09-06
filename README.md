@@ -11,10 +11,12 @@ I'm a computer science student and junior software developer with a focus on mob
 </p>
 
 ### Languages 🌐
-- Portuguese (Native language)
-- Spanish
-- English
-- Deutsch (trying...)
+| Language   | Proficiency     |
+| ---------- | --------------- |
+| Portuguese | Native language |
+| Spanish    | B2              | 
+| English    | B1              |
+| Deutsch    | A1              | 
 
 ## What I'm currently learning 📚
 - Native android development with java
