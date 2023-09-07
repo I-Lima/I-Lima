@@ -15,17 +15,17 @@ I'm a Computer Science student at [UECE](https://www.uece.br/) and currently wor
 </p>
 
 ## My Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0317IL&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0317IL&layout=compact&theme=transparent&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-Lima&show_icons=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-Lima&layout=compact&theme=transparent&hide_border=true)
 
 
 ### Languages 🌐
-| Language   | Proficiency     |
-| ---------- | --------------- |
-| Portuguese | Native language |
-| Spanish    | B2              | 
-| English    | B1              |
-| Deutsch    | A1              | 
+|                              |
+| ---------------------------- |
+| Portuguese (Native language) |
+| Spanish                      |
+| English                      |
+| Deutsch  (trying...)         |
 
 ## What I'm currently learning 📚
 - Test analysis and implementation
