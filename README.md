@@ -5,7 +5,9 @@
 I'm a Computer Science student at [UECE](https://www.uece.br/) and currently work as a junior full-stack developer, using React Native and Node.js with javascript.
 
 - Living in Brazil 🇧🇷
-- Focus on mobile development 📱
+- Focus on mobile development 📱 <br>
+
+  [![Linkedin Badge](https://img.shields.io/badge/-ingridlima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingridlima-js)](https://www.linkedin.com/in/ingridlima-js) [![Gmail Badge](https://img.shields.io/badge/-ibezerradelima@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ibezerradelima@gmail.com)](mailto:ibezerradelima@gmail.com)
 
 ## My Skills 💻
 <p align="center">
