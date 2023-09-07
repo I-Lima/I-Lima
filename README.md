@@ -2,10 +2,10 @@
 
 # Hi :wave: 
 
-<div>
-  I'm a computer science student and junior software developer with a focus on mobile development.
-</div>
+I'm a Computer Science student at [UECE](https://www.uece.br/) and currently work as a junior full-stack developer, using React Native and Node.js with javascript.
 
+- Living in Brazil 🇧🇷
+- Focus on mobile development 📱
 
 ## My Skills 💻
 <p align="center">
@@ -15,8 +15,8 @@
 </p>
 
 ## My Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0317IL&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0317IL&layout=compact&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0317IL&show_icons=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0317IL&layout=compact&theme=transparent&hide_border=true)
 
 
 ### Languages 🌐
@@ -28,4 +28,4 @@
 | Deutsch    | A1              | 
 
 ## What I'm currently learning 📚
-- Native android development with java
+- Test analysis and implementation
