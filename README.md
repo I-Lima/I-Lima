@@ -25,7 +25,6 @@ I'm a Computer Science student at [UECE](https://www.uece.br/) and currently wor
 |                              |
 | ---------------------------- |
 | Portuguese (Native language) |
-| Spanish                      |
 | English                      |
 | Deutsch  (trying...)         |
 
