@@ -12,7 +12,7 @@ I'm a Computer Science student at [UECE](https://www.uece.br/) and currently wor
 ## My Skills 💻
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,redux,next,jest,figma,tailwind,materialui,mysql,html,css,py,git,c,java" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,redux,next,jest,figma,tailwind,materialui,mysql,html,css,py,git,c,kotlin" />
   </a>
 </p>
 
