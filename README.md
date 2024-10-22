@@ -2,11 +2,11 @@
 
 # Hi :wave: 
 
-I'm a Computer Science student at [UECE](https://www.uece.br/) and currently work as a junior full-stack developer, using React Native and Node.js with javascript.
+  I'm a Computer Science student and currently work as a full-stack developer. 
 
-- Living in Brazil 🇧🇷
-- Focus on mobile development 📱 <br>
-
+  I have experience in mobile development, focusing on React Native and JavaScript. In my personal projects, I have been dedicated to native Android development with Kotlin, expanding my skills. Additionally, I enjoy sharing my discoveries and     learnings by writing articles on [Medium](https://medium.com/@i-lima), contributing to the tech community.
+  
+  
   [![Linkedin Badge](https://img.shields.io/badge/-ingridlima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingridlima-js)](https://www.linkedin.com/in/ingridlima-js) [![Gmail Badge](https://img.shields.io/badge/-ibezerradelima@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ibezerradelima@gmail.com)](mailto:ibezerradelima@gmail.com)
 
 ## My Skills 💻
@@ -27,6 +27,3 @@ I'm a Computer Science student at [UECE](https://www.uece.br/) and currently wor
 | Portuguese (Native language) |
 | English                      |
 | Deutsch  (trying...)         |
-
-## What I'm currently learning 📚
-- Test analysis and implementation
