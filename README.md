@@ -2,9 +2,11 @@
 
 # Hi :wave: 
 
-  I'm a Computer Science student and currently work as a full-stack developer. 
+  I am a developer and Computer Science student at the State University of Ceará (UECE). My journey has combined professional experiences with personal projects.
 
-  I have experience in mobile development, focusing on React Native and JavaScript. In my personal projects, I have been dedicated to native Android development with Kotlin, expanding my skills. Additionally, I enjoy sharing my discoveries and     learnings by writing articles on [Medium](https://medium.com/@i-lima), contributing to the tech community.
+  I currently work on app development, contributing to various stages of the process, such as problem-solving, feature enhancement, and interface design. I have also contributed to publishing apps on digital platforms.
+
+I write articles on [Medium](https://medium.com/@i-lima), about my experiences and maintain an active presence in the tech community. I have the skills to work in diverse contexts, with ease in collaborating in dynamic and multicultural environments. I have intermediate proficiency in English and Spanish, along with basic knowledge of German. I am always looking for new challenges that allow me to grow and create a positive impact.
   
   
   [![Linkedin Badge](https://img.shields.io/badge/-ingridlima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingridlima-js)](https://www.linkedin.com/in/ingridlima-js) [![Gmail Badge](https://img.shields.io/badge/-ibezerradelima@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ibezerradelima@gmail.com)](mailto:ibezerradelima@gmail.com)
@@ -25,5 +27,6 @@
 |                              |
 | ---------------------------- |
 | Portuguese (Native language) |
+| Spanish                      |
 | English                      |
 | Deutsch  (trying...)         |
