@@ -28,5 +28,5 @@ I write articles on [Medium](https://medium.com/@i-lima), about my experiences a
 | ---------------------------- |
 | Portuguese (Native language) |
 | Spanish                      |
-| English                      |
+| [English](https://cert.efset.org/vkDtbo)                      |
 | Deutsch  (trying...)         |
