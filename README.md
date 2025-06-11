@@ -14,7 +14,7 @@ I write articles on [Medium](https://medium.com/@i-lima), about my experiences a
 ## My Skills 💻
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,redux,next,jest,figma,tailwind,materialui,mysql,html,css,py,git,c,kotlin,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,redux,next,jest,figma,tailwind,materialui,mysql,java,spring,html,css,py,git,kotlin,androidstudio" />
   </a>
 </p>
 
